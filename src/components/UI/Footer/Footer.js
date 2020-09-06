@@ -78,13 +78,13 @@ const footer = () => {
             </div>
             <div className='footer-content'>
               <p className='text-muted'>
-                <small>Address : 123 main street, Algiers, Algeria</small>
+                <small>Address : 〒252-0314, Kanagawa-ken, Sagamihara-shi, Minamiku, Minamidai</small>
               </p>
               <p className='text-muted'>
-                <small>Phone : +213 (0) 123 456 789</small>
+                <small>Phone : +81-90-3598-2743</small>
               </p>
               <p className='text-muted'>
-                <small>E-mail : contact@email.com</small>
+                <small>E-mail : gabirtual.tech.company@gmail.com</small>
               </p>
               <div className='social-media mt-4'>
                 <a href='!#' className='text-light'>
@@ -105,7 +105,7 @@ const footer = () => {
         </div>
       </div>
       <div className='bottom-footer pt-3 pb-3 text-center'>
-        <small>© All Right Reserved. Design By Mohamed Azouaoui</small>
+        <small>© All Right Reserved. Design By Swapnil Patil</small>
       </div>
     </footer>
   );

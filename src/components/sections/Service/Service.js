@@ -21,10 +21,10 @@ const Service = () => {
             <div className='col-md-6 col-lg-4 mb-3'>
               <div className='service-box d-flex'>
                 <div className='service-icon mr-4'>
-                  <i className='fas fa-briefcase' />
+                  <i className='fas fa-code' />
                 </div>
                 <div className='service-body'>
-                  <h5 className='service-title'>Business Planning</h5>
+                  <h5 className='service-title'>UI/UX Development</h5>
                   <p className='service-description'>
                     Anim pariatur cliche reprehenderit, enim eiusmod high life
                     accusamus terry richardson ad squid
@@ -35,10 +35,10 @@ const Service = () => {
             <div className='col-md-6 col-lg-4 mb-3'>
               <div className='service-box d-flex'>
                 <div className='service-icon mr-4'>
-                  <i className='fas fa-chart-bar' />
+                  <i className='fas fa-mobile' />
                 </div>
                 <div className='service-body'>
-                  <h5 className='service-title'>Product Marketing</h5>
+                  <h5 className='service-title'>Mobile App deployment</h5>
                   <p className='service-description'>
                     Anim pariatur cliche reprehenderit, enim eiusmod high life
                     accusamus terry richardson ad squid
@@ -49,10 +49,10 @@ const Service = () => {
             <div className='col-md-6 col-lg-4 mb-3'>
               <div className='service-box d-flex'>
                 <div className='service-icon mr-4'>
-                  <i className='fas fa-fist-raised' />
+                  <i className='fas fa-robot' />
                 </div>
                 <div className='service-body'>
-                  <h5 className='service-title'>Risk Management</h5>
+                  <h5 className='service-title'>Robotics</h5>
                   <p className='service-description'>
                     Anim pariatur cliche reprehenderit, enim eiusmod high life
                     accusamus terry richardson ad squid
@@ -63,10 +63,10 @@ const Service = () => {
             <div className='col-md-6 col-lg-4 mb-3'>
               <div className='service-box d-flex'>
                 <div className='service-icon mr-4'>
-                  <i className='far fa-paper-plane' />
+                  <i className='fas fa-laptop-code' />
                 </div>
                 <div className='service-body'>
-                  <h5 className='service-title'>Market Research</h5>
+                  <h5 className='service-title'>AI and Machine Learning</h5>
                   <p className='service-description'>
                     Anim pariatur cliche reprehenderit, enim eiusmod high life
                     accusamus terry richardson ad squid
@@ -77,10 +77,10 @@ const Service = () => {
             <div className='col-md-6 col-lg-4 mb-3'>
               <div className='service-box d-flex'>
                 <div className='service-icon mr-4'>
-                  <i className='fas fa-gem' />
+                  <i className='fas fa-cubes' />
                 </div>
                 <div className='service-body'>
-                  <h5 className='service-title'>Business Financing</h5>
+                  <h5 className='service-title'>Package, Library Implementation</h5>
                   <p className='service-description'>
                     Anim pariatur cliche reprehenderit, enim eiusmod high life
                     accusamus terry richardson ad squid
@@ -91,10 +91,10 @@ const Service = () => {
             <div className='col-md-6 col-lg-4 mb-3'>
               <div className='service-box d-flex'>
                 <div className='service-icon mr-4'>
-                  <i className='far fa-life-ring' />
+                  <i className='far fa-file-audio' />
                 </div>
                 <div className='service-body'>
-                  <h5 className='service-title'>Suppport Team</h5>
+                  <h5 className='service-title'>Audio Processing</h5>
                   <p className='service-description'>
                     Anim pariatur cliche reprehenderit, enim eiusmod high life
                     accusamus terry richardson ad squid

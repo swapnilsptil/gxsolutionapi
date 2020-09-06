@@ -12,12 +12,12 @@ const sections = () => {
   return (
     <Fragment>
       <Home />
-      <About />
       <Service />
       <Blog />
       <Facts />
+      <About />
       <Contact />
-      <MapMarker />
+      {/* <MapMarker /> */}
     </Fragment>
   );
 };

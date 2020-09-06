@@ -26,7 +26,7 @@ const Blog = () => {
               <div className='card rounded-0'>
                 <img src={blogImage1} className='card-img-top' alt='Blog 1' />
                 <div className='card-body'>
-                  <h5 className='card-title'>High Quality Support</h5>
+                  <h5 className='card-title'>System Design</h5>
                   <p className='card-text'>
                     Exercitation ullamco laboris nisi ut aliquip ex ea commodo.
                     cillum dolore eu fugiat nulla pariatur commodo
@@ -42,7 +42,7 @@ const Blog = () => {
               <div className='card rounded-0'>
                 <img src={blogImage2} className='card-img-top' alt='Blog 2' />
                 <div className='card-body'>
-                  <h5 className='card-title'>Research Financial</h5>
+                  <h5 className='card-title'>Package, Library implementation</h5>
                   <p className='card-text'>
                     Exercitation ullamco laboris nisi ut aliquip ex ea commodo.
                     cillum dolore eu fugiat nulla pariatur commodo
@@ -58,7 +58,7 @@ const Blog = () => {
               <div className='card rounded-0'>
                 <img src={blogImage3} className='card-img-top' alt='Blog 3' />
                 <div className='card-body'>
-                  <h5 className='card-title'>Business Deal</h5>
+                  <h5 className='card-title'>R&D Consulting</h5>
                   <p className='card-text'>
                     Exercitation ullamco laboris nisi ut aliquip ex ea commodo.
                     cillum dolore eu fugiat nulla pariatur commodo
